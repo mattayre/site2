@@ -166,6 +166,12 @@ ul.nostyle i {
   height: auto;
   padding: 22px 15px 21px;
 }
+@media only screen and ( max-width: 767px ) {
+  .navbar-brand img{
+      width: 55px;
+      height: 55px;
+  }
+}
 @media only screen and (min-width: 768px) {
   #main-menu.navbar-default {
     background: rgba(255, 255, 255, 0.9);
