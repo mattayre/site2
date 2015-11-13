@@ -160,11 +160,11 @@ ul.nostyle i {
   margin-bottom: 0;
 }
 .navbar.navbar-default .navbar-toggle {
-  margin-top: 32px;
+  margin-top: 10px;
 }
 .navbar.navbar-default .navbar-brand {
   height: auto;
-  padding: 22px 15px 21px;
+  padding: 10px 15px 5px;
 }
 @media only screen and ( max-width: 767px ) {
   .navbar-brand img{
